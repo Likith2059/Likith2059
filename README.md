@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Likith2059
 - 👀 I’m interested in Developing and Technicality
-- 🌱 I’m currently learning python and data structures 
+- 🌱 I’m currently learning python and web devlopment 
 - 💞️ 
 - 📫 How to reach me ... b.sailikith@gmail.com
 917093824510
